@@ -5,7 +5,7 @@ notes on the topic.
 The course was coded in Javascript, but I wanted to code in C++ to make use of pointers and some of low level features, so during the course I watched the 
 lecture and understood the topic well, then researched (if needed) and then implemented it on my own using C++. 
 
-# What you will find in this reposotory? 
+# What you will find in this repository? 
 ### Algorithms: 
   * Sliding Window 
   * Multiple Pointers
@@ -31,6 +31,6 @@ lecture and understood the topic well, then researched (if needed) and then impl
   7. Hash Map
   8. Graph
   
-You will also find alot of utility functions.
+You will also find a lot of utility functions.
   
 You can find the course [here](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
